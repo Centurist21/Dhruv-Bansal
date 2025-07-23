@@ -19,7 +19,7 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhruvBansal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/dhruv-bansal-17b047289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhruvBansal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhruv-bansal-17b047289)
 [![Gmail](https://img.shields.io/badge/Gmail-dhruvbansal@email.com-red?style=flat&logo=gmail)](mailto:bansaldhruv625@gmail.com)
 
 ---
